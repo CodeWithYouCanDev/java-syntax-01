@@ -1,1 +1,1 @@
-# java-syntax-01
+# java-mentoring
